@@ -1,7 +1,7 @@
 # Hey 👋
 <img width="100%" src="https://web.archive.org/web/20090901181000/http://geocities.com/kobalt27x/divider12.gif">
 
-## I'm Ryan Turner
+<h1 align=center>I'm Ryan Turner</h1>
 
 ### I am a...
 💻 Software Engineer <br>
@@ -16,6 +16,13 @@
 
 ### Some of My Favorite Repos...
 
+<div align="center">
+
+  [![turnerr8 - Movie_Selector](https://img.shields.io/static/v1?label=turnerr8&message=Movie_Selector&color=A4C4E3&logo=github)](https://github.com/turnerr8/Movie_Selector "Go to GitHub repo")
+
+  [![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://turnerr8.github.io/Movie_Selector/)
+
+</div>
 
 ### My Languages...
 
