@@ -10,7 +10,7 @@
 📱 Mobile Programmer <br>
 
 ### More About Me...
-📍 Bellingham, WA <br>
+📍 Denver, CO <br>
 🎒 Western Washington University (BS, Computer Science) <br>
 🌐 <a href="https://rturner.dev">My Website</a>
 
